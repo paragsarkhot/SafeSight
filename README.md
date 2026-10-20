@@ -8,49 +8,49 @@ It helps construction sites, factories, warehouses, and industrial environments 
 
 ## Features
 
-* Real-time person detection using YOLOv8
-* Helmet detection using a custom-trained YOLOv8 model
-* Safety vest detection using a custom-trained YOLOv8 model
-* Worker identification through OCR-based worker number recognition
-* DeepFace-powered facial recognition fallback
-* Automatic safety violation detection
-* Violation evidence snapshot storage
-* MongoDB database integration
-* WhatsApp alert notifications using Twilio
-* Multi-camera monitoring support
-* Analytics dashboard for safety insights
-* Role-based authentication system
-* Worker management with photo uploads
+- Real-time person detection using YOLOv8
+- Helmet detection using a custom-trained YOLOv8 model
+- Safety vest detection using a custom-trained YOLOv8 model
+- Worker identification through OCR-based worker number recognition
+- DeepFace-powered facial recognition fallback
+- Automatic safety violation detection
+- Violation evidence snapshot storage
+- MongoDB database integration
+- WhatsApp alert notifications using Twilio
+- Multi-camera monitoring support
+- Analytics dashboard for safety insights
+- Role-based authentication system
+- Worker management with photo uploads
 
 ## Technology Stack
 
 ### Frontend
 
-* React.js
-* Axios
-* Lucide React
-* CSS
+- React.js
+- Axios
+- Lucide React
+- CSS
 
 ### Backend
 
-* FastAPI
-* Python
-* OpenCV
-* EasyOCR
-* DeepFace
-* Twilio API
+- FastAPI
+- Python
+- OpenCV
+- EasyOCR
+- DeepFace
+- Twilio API
 
 ### AI Models
 
-* YOLOv8 Person Detection
-* Custom YOLOv8 Helmet Detection
-* Custom YOLOv8 Safety Vest Detection
-* EasyOCR Text Recognition
-* FaceNet (via DeepFace)
+- YOLOv8 Person Detection
+- Custom YOLOv8 Helmet Detection
+- Custom YOLOv8 Safety Vest Detection
+- EasyOCR Text Recognition
+- FaceNet (via DeepFace)
 
 ### Database
 
-* MongoDB
+- MongoDB
 
 ## System Workflow
 
@@ -125,48 +125,53 @@ npm run dev
 
 ## Analytics Provided
 
-* Total violations
-* Helmet violations
-* Vest violations
-* Worker-wise violation frequency
-* Camera-wise violation statistics
-* Daily safety trends
+- Total violations
+- Helmet violations
+- Vest violations
+- Worker-wise violation frequency
+- Camera-wise violation statistics
+- Daily safety trends
 
 ## Applications
 
-* Construction Sites
-* Manufacturing Plants
-* Warehouses
-* Mining Operations
-* Industrial Facilities
-* Smart Factory Safety Monitoring
+- Construction Sites
+- Manufacturing Plants
+- Warehouses
+- Mining Operations
+- Industrial Facilities
+- Smart Factory Safety Monitoring
 
 ## Advantages
 
-* Automated PPE compliance monitoring
-* Reduces manual supervision
-* Real-time safety alerts
-* Accurate worker identification
-* Centralized violation tracking
+- Automated PPE compliance monitoring
+- Reduces manual supervision
+- Real-time safety alerts
+- Accurate worker identification
+- Centralized violation tracking
 
 ## Limitations
 
-* Performance depends on camera quality
-* OCR accuracy may decrease with blurry images
-* Facial recognition requires clear face visibility
-* Large worker databases can increase processing time
-* Requires stable network connectivity
+- Performance depends on camera quality
+- OCR accuracy may decrease with blurry images
+- Facial recognition requires clear face visibility
+- Large worker databases can increase processing time
+- Requires stable network connectivity
 
 ## Future Scope
 
-* Cloud deployment support
-* Mobile application integration
-* Attendance tracking system
-* Worker behavior analysis
-* Safety score prediction using AI
-* Edge AI deployment on CCTV devices
-* Email and SMS notifications
-* Multi-site monitoring dashboard
+- Cloud deployment support
+- Mobile application integration
+- Attendance tracking system
+- Worker behavior analysis
+- Safety score prediction using AI
+- Edge AI deployment on CCTV devices
+- Email and SMS notifications
+- Multi-site monitoring dashboard
+
+## Screenshots
+
+![alt text](<screenshots/image (1).png>)
+![alt text](<screenshots/image (2).png>)
 
 ## Authors
 
